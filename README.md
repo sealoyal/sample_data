@@ -1,2 +1,2 @@
 # web_scraping
-This is a repo to store files for web scrapping
+This is a repo to store sample data files
